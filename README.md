@@ -1,30 +1,29 @@
 <p align="center">
-  <img src="docs/banner.png" alt="SudoWAI — software e AI in locale, senza Big Tech" width="100%">
+  <img src="docs/banner.png" alt="SudoWAI — hardware, AI locale e sistemi self-hosted" width="100%">
 </p>
 
 # SudoWAI
 
-> Software e **intelligenza artificiale che girano in LOCALE** (self-hosted), senza Big Tech. Per negozi, ristoranti e attività. Fatti a **Livorno** 🇮🇹
+> Laboratorio indipendente di **Hardware R&D, AI in locale e sistemi self-hosted**, senza Big Tech. Fatto a **Livorno** 🇮🇹
 
-[![Sito](https://img.shields.io/badge/sudowai.com-4d8dff)](https://sudowai.com) [![SmartShop](https://img.shields.io/badge/SmartShop-demo-e07b00)](https://smartshop.sudowai.com) [![Interposer](https://img.shields.io/badge/Interposer-ricerca-e9c46a)](https://interposer.sudowai.com)
+[![Casa Base](https://img.shields.io/badge/sudowai.com-4d8dff)](https://sudowai.com) [![Interposer](https://img.shields.io/badge/Interposer-VRAM_R%26D-e9c46a)](https://interposer.sudowai.com) [![MARINA](https://img.shields.io/badge/MARINA-AI_distribuita-22d3ee)](https://marina.sudowai.com)
 
-SudoWAI è l'ecosistema che dà a negozi e piccole attività gli stessi superpoteri delle grandi — software e AI — ma **in casa propria**: l'AI gira in locale (Ollama/Gemma), i dati restano tuoi, niente cloud delle big tech.
-
-## Prodotti
-- 🛒 **SmartShop** — il gestionale AI per negozi e ristoranti: cassa, prodotti anche da una foto, ordini, sito web, scudo anti-chiamate. → [demo](https://smartshop.sudowai.com) · [repo](https://github.com/alessiom18/smartshop)
-- 💬 **Serena** — l'assistente AI su WhatsApp che risponde ai tuoi clienti, anche a voce.
-- 🧠 **M.A.R.C.O.** — assistente AI personale con memoria, cloud o offline.
+Non facciamo una cosa sola: SudoWAI unisce ricerca hardware sulle GPU, architetture AI multi-agente locali, benchmark pubblici e software verticali self-hosted.
 
 ## Ricerca Hardware & AI Locale
-- ⚡ **[Interposer](https://interposer.sudowai.com)** — ricerca indipendente per espandere la memoria delle schede video usate e far girare modelli fino a 120B in locale (pubblichiamo solo numeri verificati sul banco prova).
-- 📊 **[local-llm-benchmark](https://github.com/alessiom18/local-llm-benchmark)** — 40 LLM locali provati su oltre 2.000 compiti reali.
-- 🧠 **[MARINA](https://github.com/alessiom18/marina)** — flotta di modelli locali su lavagna condivisa con verifica atomica.
+- ⚡ **[Interposer](https://interposer.sudowai.com)** — espansione fisica della VRAM (64–128 GB) sulle schede video usate per far girare modelli 120B, foto 4K e video in locale (schede già sul banco in laboratorio).
+- 🧠 **[MARINA](https://github.com/alessiom18/marina)** — orchestrazione multi-modello su lavagna condivisa con verifica deterministica, gestione VRAM e interfaccia casa/studio/multimedia. → [plancia](https://marina.sudowai.com)
+- 📊 **[local-llm-benchmark](https://github.com/alessiom18/local-llm-benchmark)** — 40 LLM locali provati su oltre 2.000 compiti reali con dati grezzi.
 - 🏗️ **[agent-scaffolding-benchmark](https://github.com/alessiom18/agent-scaffolding-benchmark)** — come cambia lo stesso LLM in base all'impalcatura dell'agente.
 
+## Motori & Applicazioni Self-Hosted
+- ⚙️ **M.A.R.C.O.** — cervello AI personale con memoria a lungo termine.
+- 💬 **Serena** — assistente AI vocale su WhatsApp, Telegram e web.
+- 📻 **Kiosk · Voci di Città** — radio AI generativa locale.
+- 🔌 **Bridge** — connettori e integrazioni self-hosted.
+- 🛒 **SmartShop** — verticale gestionale AI per negozi e ristoranti. → [demo](https://smartshop.sudowai.com) · [repo](https://github.com/alessiom18/smartshop)
+
 ## Filosofia
-**AI locale · privacy-first · senza Big Tech · fatto a Livorno.** "Tutto quello che fai, finalmente collegato."
+**Hardware tuo · AI locale · numeri alla mano · fatto a Livorno.**
 
-🔗 [sudowai.com](https://sudowai.com) · 📍 Livorno, Italia
-
-> Repository **vetrina** dell'ecosistema SudoWAI. Il codice dei prodotti è proprietario.
-
+🔗 [sudowai.com](https://sudowai.com) · ⚡ [interposer.sudowai.com](https://interposer.sudowai.com) · 📍 Livorno, Italia
